@@ -19,4 +19,4 @@ This project scrapes product data from Amazon.com and performs basic data analys
 1. Clone this repository:
    ```bash
    git clone https://github.com/VGRobert/Web-Scraper-with-Data-Analysis.git
-   cd Web-Scraper-and-Data-Analysis
+   cd Web-Scraper-with-Data-Analysis
